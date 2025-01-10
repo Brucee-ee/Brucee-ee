@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Luke Brace  
 
+[![LinkedIn]([https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI1djF4ZnpwZnBiZzZlYTYxZDJmZWh0MDIwb3UxMWtwOHVreG54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)](https://www.linkedin.com/in/luke-brace-3a3aa32b6/)  
+
 **🌟 About Me**  
 I’m a second-year Computer Science student at Swansea University with a passion for data science, programming, and blockchain technology. Outside the digital realm, I enjoy surfing and exploring the outdoors.  
 
@@ -19,9 +21,3 @@ I’m a second-year Computer Science student at Swansea University with a passio
 - Cryptocurrencies & blockchain technology  
 - Exploring innovative uses for data science  
 - Surfing and staying active  
-
-**📫 Let’s Connect**  
-[![LinkedIn](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)](https://www.linkedin.com/in/luke-brace-3a3aa32b6/)  
-
----
-
