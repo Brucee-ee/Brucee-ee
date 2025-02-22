@@ -7,14 +7,7 @@ I’m a second-year Computer Science student at Swansea University with a passio
 
 **💻 Skills & Tools**  
 - **Languages**: Java (proficient), Python (intermediate), C++, Haskell (basic)  
-- **Tools**: IntelliJ, Visual Studio, Google Colab, Microsoft Office Suite  
-- **Tech Expertise**:  
-  - Data Science (visualization & analysis with Python)  
-  - Algorithms & Database Systems (SQL, efficiency optimization)    
-
-**📂 Projects**  
-- **Fibonacci Nim** (Java): Built an interactive game leveraging game theory and recursive algorithms, improving performance efficiency by 30%.  
-- **Wildfire Data Analysis** (Python): Analyzed wildfire trends in Algeria using Python (Pandas, Matplotlib), identifying high-risk areas for better prevention efforts.  
+- **Tools**: IntelliJ, Visual Studio, Google Colab, Microsoft Office Suite   
 
 **🚀 Interests**  
 - Cryptocurrencies & blockchain technology  
