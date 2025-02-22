@@ -10,8 +10,7 @@ I’m a second-year Computer Science student at Swansea University with a passio
 - **Tools**: IntelliJ, Visual Studio, Google Colab, Microsoft Office Suite  
 - **Tech Expertise**:  
   - Data Science (visualization & analysis with Python)  
-  - Algorithms & Database Systems (SQL, efficiency optimization)  
-  - Software Development (Agile methodologies)  
+  - Algorithms & Database Systems (SQL, efficiency optimization)    
 
 **📂 Projects**  
 - **Fibonacci Nim** (Java): Built an interactive game leveraging game theory and recursive algorithms, improving performance efficiency by 30%.  
