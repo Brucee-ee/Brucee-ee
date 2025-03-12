@@ -15,6 +15,7 @@ I’m a second-year Computer Science student at Swansea University with a passio
 - Surfing and staying active
 
 **🌱 Currently Learning** 
+
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brucee&layout=compact&theme=radical)
 
 **💻 My Stats**  
