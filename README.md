@@ -5,7 +5,7 @@
 **🌟 About Me**  
 I’m a second-year Computer Science student at Swansea University with a passion for data science, programming, and blockchain technology. Outside the digital realm, I enjoy surfing and exploring the outdoors.  
 
-**🌱 Currently Learning  
+**🌱 Currently Learning** 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brucee&layout=compact&theme=radical)
 
 **💻 Skills & Tools**  
