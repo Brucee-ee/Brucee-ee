@@ -16,3 +16,6 @@ I’m a second-year Computer Science student at Swansea University with a passio
 - Cryptocurrencies & blockchain technology  
 - Exploring innovative uses for data science  
 - Surfing and staying active  
+
+**💻 My Stats**  
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)
