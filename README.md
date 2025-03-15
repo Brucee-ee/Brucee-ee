@@ -7,7 +7,7 @@ I’m a second-year Computer Science student at Swansea University with a passio
 
 **💻 Skills & Tools**  
 - **Languages**: Java (proficient), Python (intermediate), C++, Haskell (basic)  
-- **Tools**: IntelliJ, Visual Studio, Google Colab, Microsoft Office Suite   
+- **Tools**: IntelliJ, Visual Studio, Google Colab, Microsoft Offic
 
 **🚀 Interests**  
 - Cryptocurrencies & blockchain technology  
