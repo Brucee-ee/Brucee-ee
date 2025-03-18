@@ -27,7 +27,7 @@ I’m a second-year Computer Science student at Swansea University with a passio
 
 **🚀 Interests**  
 🔹 [Boulder Dash '96 Remake](#)  
-🔹 [Crypto Notify](https://github.com/Brucee-ee/CryptoNotifyThingy)
+🔹 [Crypto Notify](https://github.com/Brucee-ee/CryptoNotifyThingy)  
 🔹 [Surf Forecast Notifications](#)  
 🔹 [Wildfire Data Analysis](#)  
 
