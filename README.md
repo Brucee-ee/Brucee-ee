@@ -25,7 +25,7 @@ Want to see more? Check out my [repositories](https://github.com/Brucee-ee).
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Brucee&layout=compact&theme=radical)
 
 **💻 My Stats**  
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical) 
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)     
 
 **🐍 Contribution Snake**
 ![Snake Animation](https://github.com/Brucee-ee/Brucee-ee/blob/output/github-contribution-grid-snake.svg)
