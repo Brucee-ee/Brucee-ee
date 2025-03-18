@@ -26,9 +26,12 @@ I’m a second-year Computer Science student at Swansea University with a passio
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
 
 **🚀 Interests**  
-- Cryptocurrencies & blockchain technology  
-- Exploring innovative uses for data science  
-- Surfing and staying active
+🔹 [Boulder Dash '96 Remake](#)  
+🔹 [Crypto Notify](#)  
+🔹 [Surf Forecast Notifications](#)  
+🔹 [Wildfire Data Analysis](#)  
+
+Want to see more? Check out my [repositories](https://github.com/Brucee-ee).  
 
 **🌱 Currently Learning** 
 
