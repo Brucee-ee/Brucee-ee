@@ -28,3 +28,5 @@ Want to see more? Check out my [repositories](https://github.com/Brucee-ee).
 ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)     
 **🔥 My Streaks**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brucee-ee&theme=radical&hide_border=false)
+### **🏆 GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brucee-ee&theme=radical&no-frame=true&row=2&column=4)      
