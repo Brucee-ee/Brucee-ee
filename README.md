@@ -2,9 +2,6 @@
 
 [![LinkedIn](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)](https://www.linkedin.com/in/luke-brace-3a3aa32b6/)     
 
-### **😂 Random Dev Joke**
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 **🌟 About Me**  
 I’m a second-year Computer Science student at Swansea University with a passion for data science, programming, and blockchain technology. Outside the digital realm, I enjoy surfing and exploring the outdoors.  
 
@@ -28,6 +25,10 @@ Want to see more? Check out my [repositories](https://github.com/Brucee-ee).
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Brucee&layout=compact&theme=radical)
 
 **💻 My Stats**  
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)     
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical) 
+
 **🔥 My Streaks**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brucee-ee&theme=radical&hide_border=false)
+
+**😂 Random Dev Joke**
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
