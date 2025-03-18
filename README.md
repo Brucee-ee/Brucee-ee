@@ -27,8 +27,5 @@ Want to see more? Check out my [repositories](https://github.com/Brucee-ee).
 **💻 My Stats**  
 ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical) 
 
-**🔥 My Streaks**  
-![GitHub Streak](https://streak-stats.demolab.com?user=Brucee-ee&theme=radical&hide_border=false)
-
-**😂 Random Dev Joke**
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+**🐍 Contribution Snake**
+![Snake Animation](https://github.com/Brucee-ee/Brucee-ee/blob/output/github-contribution-grid-snake.svg)
