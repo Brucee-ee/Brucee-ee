@@ -26,7 +26,7 @@ I’m a second-year Computer Science student at Swansea University with a passio
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
 
 **🚀 Interests**  
-🔹 [Boulder Dash '96 Remake](#)  
+🔹 [Boulder Dash '96 Remake](https://github.com/CS-230-Group-24/Boulder-Dash-Remake)  
 🔹 [Crypto Notify](https://github.com/Brucee-ee/CryptoNotifyThingy)  
 🔹 [Surf Forecast Notifications](#)  
 🔹 [Wildfire Data Analysis](#)  
