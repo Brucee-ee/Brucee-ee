@@ -28,4 +28,4 @@ Want to see more? Check out my [repositories](https://github.com/Brucee-ee).
 ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)     
 
 **🐍 Contribution Snake**
-![Snake Animation](https://github.com/Brucee-ee/Brucee-ee/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/user-attachments/assets/24292022-fd4d-4998-831c-8fc39ca013d5)
