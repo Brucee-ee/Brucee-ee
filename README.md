@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Luke Brace  
-
-[![LinkedIn](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)](https://www.linkedin.com/in/luke-brace-3a3aa32b6/)     
+ 
 
 **🌟 About Me**  
 I’m a second-year Computer Science student at Swansea University with a passion for data science, programming, and blockchain technology. Outside the digital realm, I enjoy surfing and exploring the outdoors.  
@@ -27,5 +26,3 @@ Want to see more? Check out my [repositories](https://github.com/Brucee-ee).
 **💻 My Stats**  
 ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)     
 
-**🐍 Contribution Snake**
-![Snake Animation](https://github.com/user-attachments/assets/6d56fefe-eb1f-4f71-93b9-7eddad417da3)
