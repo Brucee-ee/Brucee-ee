@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luke Brace  
+# 👋 Hi, I'm Luke Brace
 
 **🌟 About Me**  
 I’m a second-year Computer Science student at Swansea University with a passion for data science, programming, and blockchain technology. Outside the digital realm, I enjoy surfing and exploring the outdoors.  
