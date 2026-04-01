@@ -10,14 +10,6 @@ I’m a second-year Computer Science student at Swansea University with a passio
  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)     
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)      
 
-**🚀 Projects**  
-🔹 [Boulder Dash '96 Remake](https://github.com/CS-230-Group-24/Boulder-Dash-Remake)  
-🔹 [Crypto Notify](https://github.com/Brucee-ee/CryptoNotifyThingy)  
-🔹 [Surf Forecast Notifications](#)  
-🔹 [Wildfire Data Analysis](#)  
-
-Want to see more? Check out my [repositories](https://github.com/Brucee-ee).  
-
 **🌱 Currently Learning** 
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Brucee&layout=compact&theme=radical)
