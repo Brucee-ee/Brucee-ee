@@ -1,19 +1,65 @@
-# 👋 Hi, I'm Luke Brace
+# Luke Brace
 
-**🌟 About Me**  
-I’m a second-year Computer Science student at Swansea University with a passion for data science, programming, and blockchain technology. Outside the digital realm, I enjoy surfing and exploring the outdoors.  
+CS student at Swansea University (graduating 2027), focused on machine learning for cybersecurity. I build tools in the detection and classification space — malware, network intrusions, phishing, vulnerability triage.
 
-**💻 Languages & 🛠Tools**
+Interested in defence and security roles. UK national, eligible for SC clearance.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)     
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%252b%252b&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)     
- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)     
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)      
+> Currently: debugging a thermostat, avoiding blue belts, and writing classifiers that are honestly better at their jobs than I am at mine.
 
-**🌱 Currently Learning** 
+---
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Brucee&layout=compact&theme=radical)
+## Projects
 
-**💻 My Stats**  
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=radical)     
+**[ML Intrusion Detection System](https://github.com/Brucee-ee/ml-intrusion-detection)**  
+XGBoost classifier trained on CICIDS 2017 — 4.2M real network flows, 27 attack types. 0.9999 accuracy, 0.9998 F1. Streamlit dashboard with live prediction and feature importance breakdown.
 
+**[Malware Classifier](https://github.com/Brucee-ee/malware-classifier)**  
+LightGBM binary classifier trained on EMBER 2018 — 800k Windows PE file samples. Static analysis only, no sandbox required. 0.9965 ROC-AUC.
+
+**[Phishing URL Detector](https://github.com/Brucee-ee/phishing-detector)**  
+Random Forest classifier on the UCI Phishing Dataset. URL-structure features only — works in real time without fetching the page. 0.9986 ROC-AUC.
+
+**[Threat Intel — CVE Severity Classifier](https://github.com/Brucee-ee/threat-intel)**  
+TF-IDF + Logistic Regression classifier that predicts CVE severity (Critical / High / Medium / Low) from description text alone. Trained on NVD data. Useful for triaging new vulnerabilities before they get a formal CVSS score.
+
+**[Recalled](https://recalled.site)**  
+AI flashcard app built with React and the Anthropic API. Six quiz modes including Feynman technique and Boss Battle. Deployed at recalled.site.
+
+---
+
+## Stack
+
+Python · XGBoost · LightGBM · scikit-learn · React · Streamlit · pandas · Git
+
+---
+
+## Outside the terminal
+
+- 🥋 BJJ competitor — currently getting triangled by people half my size
+- 🚗 Rebuilding a Tornado Red Scirocco because apparently that's a valid use of time
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Based in Wales, which means I debug in the rain
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brucee-ee&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brucee-ee&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brucee-ee&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## Contribution snake
+
+![snake animation](https://github.com/Brucee-ee/Brucee-ee/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## Contact
+
+[linkedin.com/in/luke-brace](https://www.linkedin.com/in/luke-brace-3a3aa32b6/)
