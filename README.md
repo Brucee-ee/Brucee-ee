@@ -4,7 +4,7 @@ CS student at Swansea University (graduating 2027), focused on machine learning 
 
 Interested in defence and security roles. UK national, eligible for SC clearance.
 
-> Currently: debugging a thermostat, avoiding blue belts, and writing classifiers that are honestly better at their jobs than I am at mine.
+> Currently: debugging a thermostat, avoiding blue belts, and writing classifiers that are honestly better at their jobs than I am at mine .
 
 ---
 
