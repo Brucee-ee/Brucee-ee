@@ -1,6 +1,6 @@
 # Luke Brace
 
-CS student at Swansea University (graduating 2027), focused on machine learning for cybersecurity. I build tools in the detection and classification space — malware, network intrusions, phishing, vulnerability triage.
+CS student at Swansea University (graduating 2027), focused on machine learning for cybersecurity. I build tools in the detection and classification space, malware, network intrusions, phishing, vulnerability triage.
 
 Interested in defence and security roles. UK national, eligible for SC clearance.
 
@@ -11,13 +11,13 @@ Interested in defence and security roles. UK national, eligible for SC clearance
 ## Projects
 
 **[ML Intrusion Detection System](https://github.com/Brucee-ee/ml-intrusion-detection)**  
-XGBoost classifier trained on CICIDS 2017 — 4.2M real network flows, 27 attack types. 0.9999 accuracy, 0.9998 F1. Streamlit dashboard with live prediction and feature importance breakdown.
+XGBoost classifier trained on CICIDS 2017, 4.2M real network flows, 27 attack types. 0.9999 accuracy, 0.9998 F1. Streamlit dashboard with live prediction and feature importance breakdown.
 
 **[Malware Classifier](https://github.com/Brucee-ee/malware-classifier)**  
-LightGBM binary classifier trained on EMBER 2018 — 800k Windows PE file samples. Static analysis only, no sandbox required. 0.9965 ROC-AUC.
+LightGBM binary classifier trained on EMBER 2018, 800k Windows PE file samples. Static analysis only, no sandbox required. 0.9965 ROC-AUC.
 
 **[Phishing URL Detector](https://github.com/Brucee-ee/phishing-detector)**  
-Random Forest classifier on the UCI Phishing Dataset. URL-structure features only — works in real time without fetching the page. 0.9986 ROC-AUC.
+Random Forest classifier on the UCI Phishing Dataset. URL structure features only, works in real time without fetching the page. 0.9986 ROC-AUC.
 
 **[Threat Intel — CVE Severity Classifier](https://github.com/Brucee-ee/threat-intel)**  
 TF-IDF + Logistic Regression classifier that predicts CVE severity (Critical / High / Medium / Low) from description text alone. Trained on NVD data. Useful for triaging new vulnerabilities before they get a formal CVSS score.
