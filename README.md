@@ -37,9 +37,7 @@ Python, XGBoost, LightGBM, scikit-learn, RTL-SDR, React, Streamlit, pandas, Git
 
 ## Outside the terminal
 
-BJJ competitor, currently getting triangled by people half my size. 
-Rebuilding a Salsa Red Scirocco because apparently that's a valid use of time. 
-Based in Wales, which means I debug in the rain.
+BJJ competitor, currently getting triangled by people half my size. Rebuilding a Salsa Red Scirocco because apparently that's a valid use of time. Surfing the Gower when the swell cooperates. Based in Wales, which means I debug in the rain.
 
 ## Stats
 
