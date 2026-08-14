@@ -33,7 +33,7 @@ AI flashcard app built with React and the Anthropic API. Six quiz modes, deploye
 
 ## Stack
 
-Python, XGBoost, LightGBM, scikit-learn, RTL-SDR, React, Streamlit, pandas, Git
+Python, XGBoost, LightGBM, scikit-learn, RTL-SDR, React, Streamlit, pandas, Git.
 
 ## Outside the terminal
 
