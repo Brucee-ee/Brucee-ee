@@ -89,10 +89,24 @@ malware classifier trained on EMBER2018.
 ## 📻 CURRENT FREQUENCY
 
 ```diff
-+ Contributing fixes upstream to scikit-learn, Prowler (AWS security scanning) and other OSS
++ Actively contributing upstream — see below
 + Posting weekly on LinkedIn — technical breakdowns + defence-industry takes
-! Chasing hardware for the next SEVERN EYE build phase
+! Working toward the next SEVERN EYE build phase
 ```
+
+---
+
+## 🔧 UPSTREAM CONTRIBUTIONS
+
+Fixes and features shipped into other people's codebases, under review by other maintainers:
+
+| Project | Contribution |
+|---|---|
+| **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** | Merged fix for a `PyGithub` deprecation warning in CI tooling |
+| **[Prowler](https://github.com/prowler-cloud/prowler)** | New AWS security check — detects hardcoded secrets in AppSync resolvers & data sources |
+| **[Impulsum14](https://github.com/MarvelcoCode/Impulsum14)** | Bug fix — stale Transfer Target state and escrowed-coin leak in the FUT market simulation |
+
+<sub>+ several smaller merged PRs (docs fixes, `.env.example` scaffolding, broken links) across beginner-contribution repos</sub>
 
 ---
 
@@ -105,6 +119,10 @@ malware classifier trained on EMBER2018.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brucee-ee&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Brucee-ee&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
