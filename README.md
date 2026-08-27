@@ -1,3 +1,5 @@
+**Center DIV**
+
 ### `SIGNAL INTERCEPTED — SOURCE: SWANSEA, WALES 🏴󠁧󠁢󠁷󠁬󠁳󠁿`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%2F%2F+scanning+HF%2FVHF+for+anomalies...;%2F%2F+training+models+on+noise+and+signal;%2F%2F+CS+%40+Swansea+University+%E2%80%94+Class+of+2027;%2F%2F+targeting+UK+defence+%26+intelligence" alt="Typing SVG" />
